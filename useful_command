@@ -1,0 +1,2 @@
+* change commit editor tool as vim
+git config --global core.editor vim
